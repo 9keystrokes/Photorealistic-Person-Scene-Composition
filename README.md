@@ -3,7 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://flam-ai-assignment.onrender.com/)
 [![Deployment](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://flam-ai-assignment.onrender.com/)
 
-## Project Overview
 This computer vision project implements an advanced image processing pipeline to seamlessly integrate a person into any background scene with photorealistic results. The system handles background removal, lighting analysis, color matching, and shadow generation to create natural-looking composite images.
 
 ## 🌐 Live Demo
