@@ -6,7 +6,7 @@
 This computer vision project implements an advanced image processing pipeline to seamlessly integrate a person into any background scene with photorealistic results. The system handles background removal, lighting analysis, color matching, and shadow generation to create natural-looking composite images.
 
 ## 🌐 Live Demo
-Visit our platform at: [DevSearch](https://flam-ai-assignment.onrender.com/)
+Visit our platform at: [Live Demo](https://flam-ai-assignment.onrender.com/)
 
 
 ## Table of Contents
